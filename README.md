@@ -1,5 +1,10 @@
-# Selena Wells Project 1 for Web Development
-## A simple folder structure with linked up css and js files. 
+# Selena Wells Project 2 for Web Development
+## Wokring with css and google fonts to create an interesting layout. 
+
+## Ressources Used
+Learning to make font sideways : 
+https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation
 
 Copyright 2020 Selena Wells
 
